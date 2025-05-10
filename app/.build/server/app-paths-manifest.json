@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/status/[jobId]/route": "app/api/status/[jobId]/route.js",
+  "/api/edit/route": "app/api/edit/route.js",
+  "/api/generate/route": "app/api/generate/route.js",
+  "/api/inpaint/route": "app/api/inpaint/route.js",
+  "/page": "app/page.js",
+  "/api/upscale/route": "app/api/upscale/route.js"
+}

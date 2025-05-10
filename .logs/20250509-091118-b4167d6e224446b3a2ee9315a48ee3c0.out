@@ -1,0 +1,37 @@
+yarn run v1.22.22
+$ next dev
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+ ✓ Ready in 1967ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.8s (1317 modules)
+ HEAD / 200 in 5297ms
+ ✓ Compiled in 919ms (666 modules)
+ GET / 200 in 86ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1530ms (1306 modules)
+ GET /logo.png 404 in 1780ms
+ GET / 200 in 100ms
+ GET /logo.png 404 in 41ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 50ms
+ GET / 200 in 35ms
+ GET /logo.png 404 in 34ms
+ GET / 200 in 38ms
+ GET /logo.png 404 in 39ms
+ ✓ Compiled in 648ms (666 modules)
+ ✓ Compiled in 429ms (666 modules)
+ ✓ Compiled in 1355ms (1127 modules)
+ ✓ Compiled in 1943ms (1313 modules)
+ ✓ Compiled in 346ms (671 modules)
+ ✓ Compiled in 454ms (1327 modules)
+ ✓ Compiled in 320ms (671 modules)
+ ✓ Compiled in 453ms (1327 modules)
+ ✓ Compiled in 324ms (671 modules)
+[?25h
